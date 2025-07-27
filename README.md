@@ -9,7 +9,7 @@ Repository Contents:
 
 3. Taxi_Enhanced_PBI_Report.docx = Detailed analytical report describing methodology, findings, and recommendations
 
-4. Screenshots = screenshots documenting data loading, cleaning, everything in vscode(apart frm pbi)
+4. Screenshots = screenshots documenting data loading, cleaning, everything in vscode(apart frm pbi) and a pbi scrnshot that i took after(i forgot to take screenshots of pbi)
 
 Data Source
 The original dataset was sourced from Kaggle's Uber Fares dataset, cleaned and enhanced as part of this project.
